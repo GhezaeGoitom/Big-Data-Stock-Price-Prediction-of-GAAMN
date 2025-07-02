@@ -1,6 +1,11 @@
 # 📈 Stock Price Prediction of GAAMN using Big Data and PySpark
 
-![GAAMN Stock Trends](images/stock_trend_banner.png)
+<table>
+  <tr>
+  <td>  <img src="img/PngItem_907131.png" alt="Stock Banner" height="30%" width="30%">  </td> 
+  <td>  <img src="img/PngItem_30042.png" alt="Stock Banner" height = "30%" width="30%"/>  </td>   
+  </tr>
+</table>
 
 This project predicts the stock prices of five major technology companies—**Google, Apple, Amazon, Microsoft, and Netflix (GAAMN)**—using classical machine learning algorithms implemented with **PySpark** in **Google Colab**. It demonstrates an end-to-end big data pipeline, from historical data ingestion to real-time streaming prediction and deployment.
 
@@ -29,9 +34,9 @@ This project predicts the stock prices of five major technology companies—**Go
   - `Low`: Lowest trading price of the day
   - `Close` (Target): Closing price
 
-### 📊 Sample Visualization
+### 📊 Real Vs Predicated Apple Closing Price Visualization
 
-![Closing Price Plot](images/closing_price_chart.png)
+![Closing Price Plot](img/graph.png)
 
 ---
 
