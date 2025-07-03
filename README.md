@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction of GAAMN using Big Data and PySpark
+# 📈 Stock Price Prediction of GAAMN using PySpark
 
 <table>
   <tr>
